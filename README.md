@@ -1,5 +1,5 @@
 MPU9250
 =======
 
-MPU-9250(I2C) for arduino sketch
+ arduino sketch for MPU-9250(I2C) 
 
